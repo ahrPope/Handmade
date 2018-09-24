@@ -8,6 +8,7 @@ MainWindowCallback(HWND   Window,
 {
 	LRESULT Result = 0;
 	
+	
 	switch(Message)
 	{
 		case WM_SIZE:
